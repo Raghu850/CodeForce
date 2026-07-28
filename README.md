@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 4 |
+| 7 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (6)
+- [implementation](#implementation) (7)
 - [math](#math) (3)
 - [sortings](#sortings) (1)
 
@@ -32,6 +32,7 @@
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.py) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.py) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.py) |
+| 510A | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/510/A%20-%20Fox%20And%20Snake/solution.py) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.py) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.py) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.py) |

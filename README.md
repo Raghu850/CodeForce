@@ -6,16 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 6 |
+| 20 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (2)
-- [greedy](#greedy) (2)
-- [implementation](#implementation) (19)
-- [math](#math) (4)
+- [brute force](#brute-force) (3)
+- [greedy](#greedy) (3)
+- [implementation](#implementation) (20)
+- [math](#math) (5)
 - [sortings](#sortings) (2)
 - [strings](#strings) (4)
 
@@ -27,6 +27,7 @@
 |---|---------|------------|----------|
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
+| 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1368/A%20-%20C%2B%3D/solution.py) |
 
 ### greedy
 
@@ -34,6 +35,7 @@
 |---|---------|------------|----------|
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.py) |
+| 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1368/A%20-%20C%2B%3D/solution.py) |
 
 ### implementation
 
@@ -58,6 +60,7 @@
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.py) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.py) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.py) |
+| 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1368/A%20-%20C%2B%3D/solution.py) |
 
 ### math
 
@@ -67,6 +70,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.py) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.py) |
+| 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1368/A%20-%20C%2B%3D/solution.py) |
 
 ### sortings
 

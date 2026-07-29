@@ -6,18 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 6 |
+| 17 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
+- [brute force](#brute-force) (2)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (16)
+- [implementation](#implementation) (17)
 - [math](#math) (4)
 - [sortings](#sortings) (1)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -25,6 +25,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 
 ### greedy
@@ -42,6 +43,7 @@
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/136/A%20-%20Presents/solution.py) |
 | 144A | [Arrival of the General](https://codeforces.com/contest/144/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/144/A%20-%20Arrival%20of%20the%20General/solution.py) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.py) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.py) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.py) |
 | 510A | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/510/A%20-%20Fox%20And%20Snake/solution.py) |
@@ -73,6 +75,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.py) |
 
 ---

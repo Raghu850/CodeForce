@@ -6,18 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 6 |
+| 19 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (2)
-- [greedy](#greedy) (1)
-- [implementation](#implementation) (18)
+- [greedy](#greedy) (2)
+- [implementation](#implementation) (19)
 - [math](#math) (4)
-- [sortings](#sortings) (1)
-- [strings](#strings) (3)
+- [sortings](#sortings) (2)
+- [strings](#strings) (4)
 
 ---
 
@@ -32,6 +32,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.py) |
 
 ### implementation
@@ -47,6 +48,7 @@
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.py) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.py) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.py) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 510A | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/510/A%20-%20Fox%20And%20Snake/solution.py) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
@@ -70,6 +72,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.py) |
 
 ### strings
@@ -78,6 +81,7 @@
 |---|---------|------------|----------|
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.py) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.py) |
 
 ---

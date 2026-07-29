@@ -6,19 +6,26 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 5 |
+| 15 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (14)
-- [math](#math) (3)
+- [implementation](#implementation) (15)
+- [math](#math) (4)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 
 ### greedy
 
@@ -39,6 +46,7 @@
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.py) |
 | 510A | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/510/A%20-%20Fox%20And%20Snake/solution.py) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.py) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.py) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.py) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.py) |
@@ -50,6 +58,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.py) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.py) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.py) |
 

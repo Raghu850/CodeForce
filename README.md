@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 5 |
+| 12 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (11)
+- [implementation](#implementation) (12)
 - [math](#math) (3)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
@@ -30,6 +30,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.py) |
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/136/A%20-%20Presents/solution.py) |
 | 144A | [Arrival of the General](https://codeforces.com/contest/144/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/144/A%20-%20Arrival%20of%20the%20General/solution.py) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.py) |

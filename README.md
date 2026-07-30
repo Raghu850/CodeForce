@@ -6,16 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 21 | 7 |
+| 22 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (3)
+- [brute force](#brute-force) (4)
 - [dp](#dp) (1)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (21)
+- [implementation](#implementation) (22)
 - [math](#math) (5)
 - [sortings](#sortings) (2)
 - [strings](#strings) (4)
@@ -28,6 +28,7 @@
 |---|---------|------------|----------|
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
+| 1097A | [Gennady and a Card Game](https://codeforces.com/contest/1097/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1097/A%20-%20Gennady%20and%20a%20Card%20Game/solution.py) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1368/A%20-%20C%2B%3D/solution.py) |
 
 ### dp
@@ -68,6 +69,7 @@
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.py) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.py) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.py) |
+| 1097A | [Gennady and a Card Game](https://codeforces.com/contest/1097/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1097/A%20-%20Gennady%20and%20a%20Card%20Game/solution.py) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.py) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1368/A%20-%20C%2B%3D/solution.py) |
 

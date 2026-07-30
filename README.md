@@ -6,16 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 7 |
+| 27 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (4)
+- [brute force](#brute-force) (5)
 - [dp](#dp) (1)
-- [greedy](#greedy) (4)
-- [implementation](#implementation) (26)
+- [greedy](#greedy) (5)
+- [implementation](#implementation) (27)
 - [math](#math) (6)
 - [sortings](#sortings) (2)
 - [strings](#strings) (5)
@@ -30,6 +30,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 | 1097A | [Gennady and a Card Game](https://codeforces.com/contest/1097/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1097/A%20-%20Gennady%20and%20a%20Card%20Game/solution.py) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1368/A%20-%20C%2B%3D/solution.py) |
+| 1391B | [Fix You](https://codeforces.com/contest/1391/problem/B) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1391/B%20-%20Fix%20You/solution.py) |
 
 ### dp
 
@@ -45,6 +46,7 @@
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.py) |
 | 702A | [Maximum Increase](https://codeforces.com/contest/702/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/702/A%20-%20Maximum%20Increase/solution.py) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1368/A%20-%20C%2B%3D/solution.py) |
+| 1391B | [Fix You](https://codeforces.com/contest/1391/problem/B) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1391/B%20-%20Fix%20You/solution.py) |
 
 ### implementation
 
@@ -75,6 +77,7 @@
 | 1303A | [Erasing Zeroes](https://codeforces.com/contest/1303/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1303/A%20-%20Erasing%20Zeroes/solution.py) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.py) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1368/A%20-%20C%2B%3D/solution.py) |
+| 1391B | [Fix You](https://codeforces.com/contest/1391/problem/B) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1391/B%20-%20Fix%20You/solution.py) |
 | 1433A | [Boring Apartments](https://codeforces.com/contest/1433/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1433/A%20-%20Boring%20Apartments/solution.py) |
 
 ### math

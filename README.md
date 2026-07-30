@@ -6,15 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 20 | 6 |
+| 21 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (3)
-- [greedy](#greedy) (3)
-- [implementation](#implementation) (20)
+- [dp](#dp) (1)
+- [greedy](#greedy) (4)
+- [implementation](#implementation) (21)
 - [math](#math) (5)
 - [sortings](#sortings) (2)
 - [strings](#strings) (4)
@@ -29,12 +30,19 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1368/A%20-%20C%2B%3D/solution.py) |
 
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 702A | [Maximum Increase](https://codeforces.com/contest/702/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/702/A%20-%20Maximum%20Increase/solution.py) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.py) |
+| 702A | [Maximum Increase](https://codeforces.com/contest/702/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/702/A%20-%20Maximum%20Increase/solution.py) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1368/A%20-%20C%2B%3D/solution.py) |
 
 ### implementation
@@ -54,6 +62,7 @@
 | 510A | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/510/A%20-%20Fox%20And%20Snake/solution.py) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
+| 702A | [Maximum Increase](https://codeforces.com/contest/702/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/702/A%20-%20Maximum%20Increase/solution.py) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.py) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.py) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.py) |

@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 9 |
+| 32 | 9 |
 
 ---
 
@@ -17,10 +17,10 @@
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (31)
+- [implementation](#implementation) (32)
 - [math](#math) (7)
 - [sortings](#sortings) (3)
-- [strings](#strings) (6)
+- [strings](#strings) (7)
 
 ---
 
@@ -75,6 +75,7 @@
 | 139A | [Petr and Book](https://codeforces.com/contest/139/problem/A) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/139/A%20-%20Petr%20and%20Book/solution.py) |
 | 144A | [Arrival of the General](https://codeforces.com/contest/144/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/144/A%20-%20Arrival%20of%20the%20General/solution.py) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.py) |
+| 219A | [k-String](https://codeforces.com/contest/219/problem/A) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/219/A%20-%20k-String/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.py) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.py) |
@@ -125,6 +126,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/118/A%20-%20String%20Task/solution.py) |
+| 219A | [k-String](https://codeforces.com/contest/219/problem/A) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/219/A%20-%20k-String/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.py) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |

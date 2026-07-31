@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 34 | 9 |
+| 35 | 9 |
 
 ---
 
@@ -16,9 +16,9 @@
 - [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
-- [greedy](#greedy) (7)
-- [implementation](#implementation) (34)
-- [math](#math) (8)
+- [greedy](#greedy) (8)
+- [implementation](#implementation) (35)
+- [math](#math) (9)
 - [sortings](#sortings) (3)
 - [strings](#strings) (7)
 
@@ -62,6 +62,7 @@
 | 702A | [Maximum Increase](https://codeforces.com/contest/702/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/702/A%20-%20Maximum%20Increase/solution.py) |
 | 1300B | [Assigning to Classes](https://codeforces.com/contest/1300/problem/B) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1300/B%20-%20Assigning%20to%20Classes/solution.py) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1368/A%20-%20C%2B%3D/solution.py) |
+| 1373A | [Donut Shops](https://codeforces.com/contest/1373/problem/A) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1373/A%20-%20Donut%20Shops/solution.py) |
 | 1391B | [Fix You](https://codeforces.com/contest/1391/problem/B) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1391/B%20-%20Fix%20You/solution.py) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.py) |
 
@@ -100,6 +101,7 @@
 | 1303A | [Erasing Zeroes](https://codeforces.com/contest/1303/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1303/A%20-%20Erasing%20Zeroes/solution.py) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.py) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1368/A%20-%20C%2B%3D/solution.py) |
+| 1373A | [Donut Shops](https://codeforces.com/contest/1373/problem/A) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1373/A%20-%20Donut%20Shops/solution.py) |
 | 1391B | [Fix You](https://codeforces.com/contest/1391/problem/B) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1391/B%20-%20Fix%20You/solution.py) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.py) |
 | 1433A | [Boring Apartments](https://codeforces.com/contest/1433/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1433/A%20-%20Boring%20Apartments/solution.py) |
@@ -114,6 +116,7 @@
 | 1141A | [Game 23](https://codeforces.com/contest/1141/problem/A) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1141/A%20-%20Game%2023/solution.py) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.py) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1368/A%20-%20C%2B%3D/solution.py) |
+| 1373A | [Donut Shops](https://codeforces.com/contest/1373/problem/A) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1373/A%20-%20Donut%20Shops/solution.py) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.py) |
 | 1433A | [Boring Apartments](https://codeforces.com/contest/1433/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1433/A%20-%20Boring%20Apartments/solution.py) |
 

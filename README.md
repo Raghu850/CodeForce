@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 28 | 7 |
+| 29 | 7 |
 
 ---
 
@@ -14,10 +14,10 @@
 
 - [brute force](#brute-force) (5)
 - [dp](#dp) (1)
-- [greedy](#greedy) (5)
-- [implementation](#implementation) (28)
+- [greedy](#greedy) (6)
+- [implementation](#implementation) (29)
 - [math](#math) (6)
-- [sortings](#sortings) (2)
+- [sortings](#sortings) (3)
 - [strings](#strings) (6)
 
 ---
@@ -45,6 +45,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.py) |
 | 702A | [Maximum Increase](https://codeforces.com/contest/702/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/702/A%20-%20Maximum%20Increase/solution.py) |
+| 1300B | [Assigning to Classes](https://codeforces.com/contest/1300/problem/B) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1300/B%20-%20Assigning%20to%20Classes/solution.py) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1368/A%20-%20C%2B%3D/solution.py) |
 | 1391B | [Fix You](https://codeforces.com/contest/1391/problem/B) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1391/B%20-%20Fix%20You/solution.py) |
 
@@ -75,6 +76,7 @@
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.py) |
 | 1095A | [Repeating Cipher](https://codeforces.com/contest/1095/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1095/A%20-%20Repeating%20Cipher/solution.py) |
 | 1097A | [Gennady and a Card Game](https://codeforces.com/contest/1097/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1097/A%20-%20Gennady%20and%20a%20Card%20Game/solution.py) |
+| 1300B | [Assigning to Classes](https://codeforces.com/contest/1300/problem/B) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1300/B%20-%20Assigning%20to%20Classes/solution.py) |
 | 1303A | [Erasing Zeroes](https://codeforces.com/contest/1303/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1303/A%20-%20Erasing%20Zeroes/solution.py) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.py) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1368/A%20-%20C%2B%3D/solution.py) |
@@ -98,6 +100,7 @@
 |---|---------|------------|----------|
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.py) |
+| 1300B | [Assigning to Classes](https://codeforces.com/contest/1300/problem/B) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1300/B%20-%20Assigning%20to%20Classes/solution.py) |
 
 ### strings
 

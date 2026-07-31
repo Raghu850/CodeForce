@@ -6,18 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 33 | 9 |
+| 34 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (5)
-- [constructive algorithms](#constructive-algorithms) (1)
+- [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (33)
+- [implementation](#implementation) (34)
 - [math](#math) (8)
 - [sortings](#sortings) (3)
 - [strings](#strings) (7)
@@ -38,6 +38,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 118B | [Present from Lena](https://codeforces.com/contest/118/problem/B) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/118/B%20-%20Present%20from%20Lena/solution.py) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.py) |
 
 ### data structures
@@ -71,6 +72,7 @@
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.py) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/116/A%20-%20Tram/solution.py) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/118/A%20-%20String%20Task/solution.py) |
+| 118B | [Present from Lena](https://codeforces.com/contest/118/problem/B) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/118/B%20-%20Present%20from%20Lena/solution.py) |
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/136/A%20-%20Presents/solution.py) |
 | 139A | [Petr and Book](https://codeforces.com/contest/139/problem/A) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/139/A%20-%20Petr%20and%20Book/solution.py) |
 | 144A | [Arrival of the General](https://codeforces.com/contest/144/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/144/A%20-%20Arrival%20of%20the%20General/solution.py) |

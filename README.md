@@ -6,17 +6,19 @@
 
 | Total Problems | Topics |
 |---|---|
-| 29 | 7 |
+| 30 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (5)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [data structures](#data-structures) (1)
 - [dp](#dp) (1)
-- [greedy](#greedy) (6)
-- [implementation](#implementation) (29)
-- [math](#math) (6)
+- [greedy](#greedy) (7)
+- [implementation](#implementation) (30)
+- [math](#math) (7)
 - [sortings](#sortings) (3)
 - [strings](#strings) (6)
 
@@ -31,6 +33,18 @@
 | 1097A | [Gennady and a Card Game](https://codeforces.com/contest/1097/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1097/A%20-%20Gennady%20and%20a%20Card%20Game/solution.py) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1368/A%20-%20C%2B%3D/solution.py) |
 | 1391B | [Fix You](https://codeforces.com/contest/1391/problem/B) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1391/B%20-%20Fix%20You/solution.py) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.py) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.py) |
 
 ### dp
 
@@ -48,6 +62,7 @@
 | 1300B | [Assigning to Classes](https://codeforces.com/contest/1300/problem/B) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1300/B%20-%20Assigning%20to%20Classes/solution.py) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1368/A%20-%20C%2B%3D/solution.py) |
 | 1391B | [Fix You](https://codeforces.com/contest/1391/problem/B) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1391/B%20-%20Fix%20You/solution.py) |
+| 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.py) |
 
 ### implementation
 
@@ -81,6 +96,7 @@
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.py) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1368/A%20-%20C%2B%3D/solution.py) |
 | 1391B | [Fix You](https://codeforces.com/contest/1391/problem/B) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1391/B%20-%20Fix%20You/solution.py) |
+| 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.py) |
 | 1433A | [Boring Apartments](https://codeforces.com/contest/1433/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1433/A%20-%20Boring%20Apartments/solution.py) |
 
 ### math
@@ -92,6 +108,7 @@
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.py) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.py) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1368/A%20-%20C%2B%3D/solution.py) |
+| 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.py) |
 | 1433A | [Boring Apartments](https://codeforces.com/contest/1433/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1433/A%20-%20Boring%20Apartments/solution.py) |
 
 ### sortings

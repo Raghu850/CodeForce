@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/118/problem/B" target="_blank" rel="noopener noreferrer">118B — Present from Lena</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1000 |
+| **Language** | Python 3 |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 118B](https://codeforces.com/contest/118/problem/B) |
+
+## Topics
+`constructive algorithms` `implementation`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">B. Present from Lena</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p>Vasya's birthday is approaching and Lena decided to sew a patterned handkerchief to him as a present. Lena chose digits from <span class="tex-span">0</span> to <span class="tex-span"><i>n</i></span> as the pattern. The digits will form a rhombus. The largest digit <span class="tex-span"><i>n</i></span> should be located in the centre. The digits should decrease as they approach the edges. For example, for <span class="tex-span"><i>n</i> = 5</span> the handkerchief pattern should look like that: </p><pre class="verbatim"><br>          0<br>        0 1 0<br>      0 1 2 1 0<br>    0 1 2 3 2 1 0<br>  0 1 2 3 4 3 2 1 0<br>0 1 2 3 4 5 4 3 2 1 0<br>  0 1 2 3 4 3 2 1 0<br>    0 1 2 3 2 1 0<br>      0 1 2 1 0<br>        0 1 0<br>          0<br></pre><p>Your task is to determine the way the handkerchief will look like by the given <span class="tex-span"><i>n</i></span>.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains the single integer <span class="tex-span"><i>n</i></span> (<span class="tex-span">2 ≤ <i>n</i> ≤ 9</span>).</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print a picture for the given <span class="tex-span"><i>n</i></span>. You should strictly observe the number of spaces before the first digit on each line. Every two adjacent digits in the same line should be separated by exactly one space. There should be no spaces after the last digit at the end of each line.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id009652646514560151" id="id009622298021556606" class="input-output-copier">Copy</div></div><pre id="id009652646514560151">2<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id001571617120020804" id="id0008071880376482898" class="input-output-copier">Copy</div></div><pre id="id001571617120020804">    0<br>  0 1 0<br>0 1 2 1 0<br>  0 1 0<br>    0<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id009259770374956104" id="id0012205728905595636" class="input-output-copier">Copy</div></div><pre id="id009259770374956104">3<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0006549525743911566" id="id0019188457718892793" class="input-output-copier">Copy</div></div><pre id="id0006549525743911566">      0<br>    0 1 0<br>  0 1 2 1 0<br>0 1 2 3 2 1 0<br>  0 1 2 1 0<br>    0 1 0<br>      0<br></pre></div></div></div>

@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 35 | 9 |
+| 36 | 9 |
 
 ---
 
@@ -17,8 +17,8 @@
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (8)
-- [implementation](#implementation) (35)
-- [math](#math) (9)
+- [implementation](#implementation) (36)
+- [math](#math) (10)
 - [sortings](#sortings) (3)
 - [strings](#strings) (7)
 
@@ -81,6 +81,7 @@
 | 219A | [k-String](https://codeforces.com/contest/219/problem/A) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/219/A%20-%20k-String/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.py) |
+| 268B | [Buttons](https://codeforces.com/contest/268/problem/B) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/268/B%20-%20Buttons/solution.py) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.py) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.py) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
@@ -111,6 +112,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.py) |
+| 268B | [Buttons](https://codeforces.com/contest/268/problem/B) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/268/B%20-%20Buttons/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.py) |
 | 1141A | [Game 23](https://codeforces.com/contest/1141/problem/A) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1141/A%20-%20Game%2023/solution.py) |

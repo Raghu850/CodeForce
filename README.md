@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 9 |
+| 38 | 11 |
 
 ---
 
@@ -15,9 +15,11 @@
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (1)
+- [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (1)
+- [graphs](#graphs) (1)
 - [greedy](#greedy) (8)
-- [implementation](#implementation) (37)
+- [implementation](#implementation) (38)
 - [math](#math) (11)
 - [sortings](#sortings) (3)
 - [strings](#strings) (7)
@@ -47,11 +49,23 @@
 |---|---------|------------|----------|
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.py) |
 
+### dfs and similar
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 500A | [New Year Transportation](https://codeforces.com/contest/500/problem/A) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/500/A%20-%20New%20Year%20Transportation/solution.py) |
+
 ### dp
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 702A | [Maximum Increase](https://codeforces.com/contest/702/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/702/A%20-%20Maximum%20Increase/solution.py) |
+
+### graphs
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 500A | [New Year Transportation](https://codeforces.com/contest/500/problem/A) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/500/A%20-%20New%20Year%20Transportation/solution.py) |
 
 ### greedy
 
@@ -87,6 +101,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 476A | [Dreamoon and Stairs](https://codeforces.com/contest/476/problem/A) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/476/A%20-%20Dreamoon%20and%20Stairs/solution.py) |
 | 492A | [Vanya and Cubes](https://codeforces.com/contest/492/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/492/A%20-%20Vanya%20and%20Cubes/solution.py) |
+| 500A | [New Year Transportation](https://codeforces.com/contest/500/problem/A) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/500/A%20-%20New%20Year%20Transportation/solution.py) |
 | 510A | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/510/A%20-%20Fox%20And%20Snake/solution.py) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |

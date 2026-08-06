@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 38 | 11 |
+| 39 | 11 |
 
 ---
 
@@ -19,10 +19,10 @@
 - [dp](#dp) (1)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (8)
-- [implementation](#implementation) (38)
+- [implementation](#implementation) (39)
 - [math](#math) (11)
 - [sortings](#sortings) (3)
-- [strings](#strings) (7)
+- [strings](#strings) (8)
 
 ---
 
@@ -88,6 +88,7 @@
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/116/A%20-%20Tram/solution.py) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/118/A%20-%20String%20Task/solution.py) |
 | 118B | [Present from Lena](https://codeforces.com/contest/118/problem/B) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/118/B%20-%20Present%20from%20Lena/solution.py) |
+| 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.py) |
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/136/A%20-%20Presents/solution.py) |
 | 139A | [Petr and Book](https://codeforces.com/contest/139/problem/A) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/139/A%20-%20Petr%20and%20Book/solution.py) |
 | 144A | [Arrival of the General](https://codeforces.com/contest/144/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/144/A%20-%20Arrival%20of%20the%20General/solution.py) |
@@ -152,6 +153,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/118/A%20-%20String%20Task/solution.py) |
+| 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.py) |
 | 219A | [k-String](https://codeforces.com/contest/219/problem/A) | 1000 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/219/A%20-%20k-String/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Python 3](https://github.com/Raghu850/CodeForce/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.py) |
